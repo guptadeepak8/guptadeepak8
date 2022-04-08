@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [deepak-profile.github.io](deepak-profile.github.io)
-
+- 👨‍💻 All of my projects are available at Here
 - 📫 How to reach me **vectord7738@gmail.com**
 
 - ⚡ Fun fact **I like travelling**
