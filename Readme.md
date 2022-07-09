@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at Here
-- 📫 How to reach me ****guptadeepakk8@gmail.com
+- 📫 How to reach me ****guptadeepakk8@gmail.com****
 
 - ⚡ Fun fact **I like travelling**
 
