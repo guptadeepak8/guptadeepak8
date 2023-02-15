@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gupta</h1>
 <h3 align="center">A passionate developer from India . I am always enthusiast to learn new stuffs</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at Here
 - 📫 How to reach me ****guptadeepakk8@gmail.com****
