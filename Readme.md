@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Development (MERN + Next.js, Docker, AWS)**
 - 🛠️ I love building scalable, production-ready applications
-- 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Replace with actual link -->
+- 👨‍💻 All of my projects are available at [My Portfolio](https://deepak-devportfolio.netlify.app/) <!-- Replace with actual link -->
 - 📫 Reach me at: **guptadeepakk8@gmail.com**
 - ⚡ Fun fact: **I enjoy traveling and exploring new tech trends**
 
