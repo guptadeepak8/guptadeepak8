@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gupta</h1>
 <h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **Full-Stack Development (MERN + Next.js, Docker, AWS)**
+- 🌱 I’m currently learning **Full-Stack Development**
 - 🛠️ I love building scalable, production-ready applications
 - 👨‍💻 All of my projects are available at [My Portfolio](https://deepak-devportfolio.netlify.app/) <!-- Replace with actual link -->
 - 📫 Reach me at: **guptadeepakk8@gmail.com**
