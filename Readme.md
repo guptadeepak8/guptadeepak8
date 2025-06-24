@@ -7,16 +7,6 @@
 - 📫 Reach me at: **guptadeepakk8@gmail.com**
 - ⚡ Fun fact: **I enjoy traveling and exploring new tech trends**
 
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/deepakg0808" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" /></a>
-  <!-- Add more socials if needed -->
-</p>
-
----
-
 ### 💻 Tech Stack:
 
 <p align="left">
